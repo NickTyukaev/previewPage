@@ -109,7 +109,7 @@ nav img{
 
 /*HEADER*/
 header{
-	background: url("/images/title4.jpg");
+	background: url("../images/title4.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -177,7 +177,7 @@ header h3{
 }
 
 #promo > div{
-	background: url("/images/ocean.jpg");
+	background: url("../images/ocean.jpg");
 	width: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
